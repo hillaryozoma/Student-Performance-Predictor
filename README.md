@@ -1,8 +1,6 @@
 # Student-Performance-Predictor
 This project aims to improve student performance by examining factors such as parental education, study habits, and participation in extracurricular activities. By conducting data cleaning, exploration, and predictive modeling, it identifies patterns and correlations, leading to actionable insights and targeted strategies that equitably address the varied needs of students.
 
-![gummy-designer-tools-1](https://github.com/user-attachments/assets/be1ef240-6064-4370-9695-ac8c6d54a3e2)
-
 # INTRODUCTION
 This project leverages data analytics to enhance student outcomes at **Encomium International College**, a culturally diverse institution. By examining how factors like parental education, extracurricular involvement, and study habits influence academic success, the initiative aims to identify key performance drivers through exploratory data analysis and predictive modeling. By uncovering patterns and relationships within demographic, academic, and extracurricular data, the project intends to provide timely and targeted interventions, ensuring equitable support for all students and promoting a data-driven approach to achieving educational excellence.
 
